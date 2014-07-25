@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d4be2939d4a53c946a68cff2cb00db98
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arrow_Left_Tex: {fileID: 2800000, guid: 7ca11084d97c4514c9003f12cfa46516, type: 3}
+  - arrow_Right_Tex: {fileID: 2800000, guid: 85bf70f30fac8974c96e18274c5c5da4, type: 3}
+  - arrow_Up_Tex: {fileID: 2800000, guid: ef0dea2effdf8fa4d8464e5e348b9a08, type: 3}
+  - arrow_Down_Tex: {fileID: 2800000, guid: 6b6eb8d309d5141468c7f9792a5796a7, type: 3}
+  - arrow_Down_None: {fileID: 2800000, guid: 47f36fbf6d9c8d048aff546d5df89ffd, type: 3}
+  - arrow_Down_Hand: {fileID: 2800000, guid: da2a27f26ae690d4ba1bd9ba567b5312, type: 3}
+  - arrow_Lost_Device: {fileID: 2800000, guid: 4ce5c5018caa5dc46b42967647bc5c9f, type: 3}
+  - arrow_Found_Device: {fileID: 2800000, guid: 47f36fbf6d9c8d048aff546d5df89ffd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
